@@ -1,5 +1,5 @@
 # Gabriel Alejandro Salmerón Sanginés  
-###### gaboslameron@gmail.com *5561641031*
+###### gabosalmeron@gmail.com *5561641031*
 ### JavaScript Front End Developer  
 
 > Desde 2014 he vivido con creciente fascinación el mundo de la programación. He acumulado más de cuatro años de experiencia en desarrollo Front End. Siempre interesado en explorar nuevas tecnologías y herramientas. Me apasionan los retos.
