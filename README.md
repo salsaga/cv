@@ -9,8 +9,8 @@
 ## Senior Skills
 
 + **Desarrollo web**
-+ **Maquetación y estilado responsivo y en multiples navegadores**
 + **Consumo de APIs y servicios REST**
++ **Maquetación y estilado responsivo y multiplataforma**
 
 --- 
 
@@ -22,41 +22,32 @@ Español nativo e inglés profesional (suficiente para poder comunicarme con gen
 
 ## Tecnologías
 
-Lenguaje principal, sublenguajes y frameworks | Expertiz
+Lenguajes y frameworks| Nivel
 --- | ---
 **JavaScript** | 5 de 5
 jQuery | 5 de 5
-**Angular 7** | 4 de 5
+**Angular 7** | 5 de 5
 TypeScript | 3 de 5
 React | 3 de 5 
 ECMAScript 6 | 3 de 5
 
 <br/>
 
-Más lenguajes, frameworks y herramientas | Expertiz
+Lenguajes, frameworks y herramientas | Nivel
 --- | ---
-Task Runners | 3 de 5 
 NodeJS | 2 de 5
 **JSON** | 5 de 5
 **HTML5** | 5 de 5
-**Razor de C#** | 4 de 5 
-Umbraco CMS | 4 de 5
+Razor de C# | 3 de 5 
 JSP de Java | 2 de 5
 Handlebars | 4 de 5 
 XML | 5 de 5
-Markdown | 5 de 5
-LaTeX | 4 de 5
 **CSS3** | 5 de 5
-SASS con SCSS | 4 de 5
-**Git** | 4 de 5
-GitKraken | 5 de 5
-IDE IntelliJ | 4 de 5
-IDE Visual Studio Code | 4 de 5
-API development environments | 5 de 5
-
-+ He trabajado con bases de datos SQL y, brevemente, con MongoDB y OrientDB. 
-+ He utilizado Nginx para hacer proxies, y he utlizado unos cuantos comandos de Windows y Unix. 
-+ **He leído y editado código de Python y PHP**.  
+SCSS | 4 de 5
+Material Design | 4 de 5
+Bootstrap | 3 de 5
+**Git** | 5 de 5
+**SQL** | 3 de 5
 
 <br/><br/><br/><br/><br/>
 
@@ -66,15 +57,15 @@ API development environments | 5 de 5
 
 ###### Vantis S de RL, Ciudad de México, *febrero 2019 - presente*
 
-Participo en el desarrollo de interfaces de un sistema que permite consultar y actualizar información de empresas y empleados, que funciona en paralelo con una aplicación de check-in.  
+Participo en el desarrollo de interfaces de un sistema que permite consultar y actualizar información de empresas y empleados, que funciona en paralelo con una aplicación de check-in. También contribuyo con la planeación de un ERP para la empresa Vanplastic, proponiendo implementación de prácticas como Angular Universal, lazy loading y pruebas unitarias.
 
-**JavaScript, TypeScript, Angular 7, HTML5, CSS3, servicios REST con CRUD**
+**JavaScript, Angular 7, Typescript, HTML5, CSS3, servicios REST con CRUD**
 
 ### Páginas Administrables de Mazda Global
 
 ###### Mirum Agency, Ciudad de México, *mayo 2018 - enero 2019*
 
-Contribuí a la elaboración de componentes de un administrador de contenido para Mazda, con mapas interactivos, product builders, plantillas para ensamblar, etc.  
+Contribuí a la elaboración de componentes de un administrador de contenido para Mazda, con mapas interactivos, product builders, plantillas para ensamblar, etc. Ayude a coordinar el equipo de Front End del proyecto. 
 
 **Umbraco, Razor, JavaScript, jQuery, HTML5, CSS3**
 
