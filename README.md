@@ -48,7 +48,7 @@ Bootstrap | 3 de 5
 **Git** | 5 de 5
 **SQL** | 3 de 5
 
-<br/>
+<br/><br/>
 
 ## Proyectos
   
@@ -56,7 +56,8 @@ Bootstrap | 3 de 5
 
 ###### Vantis S de RL, Ciudad de México, *febrero 2019 - presente*
 
-Participo en el desarrollo de interfaces de un sistema que permite consultar y actualizar información de empresas y empleados, que funciona en paralelo con una aplicación de check-in. También contribuyo con la planeación de un ERP para la empresa Vanplastic, proponiendo implementación de prácticas como Angular Universal, lazy loading y pruebas unitarias.
++ Participo en el desarrollo de interfaces de un sistema que permite consultar y actualizar información de empresas y empleados, que funciona en paralelo con una aplicación de check-in. 
++ Contribuyo con la planeación de un ERP para la empresa Vanplastic, proponiendo implementación de prácticas como Angular Universal, lazy loading y pruebas unitarias.
 
 **JavaScript, Angular 7, Typescript, HTML5, CSS3, servicios REST con CRUD**
 
