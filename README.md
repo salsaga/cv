@@ -52,9 +52,9 @@ Bootstrap | 3 de 5
 
 ---
 
-<br/>
+# Proyectos
 
-## Proyectos
+<br/>
   
 ### Sistema de Administración de Empleados Vantis
 
@@ -105,8 +105,7 @@ Desarrollé las interfaces web de un sistema de gestión de apoyos para damnific
 
 ###### CELAMEX IAP, Ciudad de México, *marzo 2016 - julio 2016*
 
-+ Escribí un script que permitía poblar con eventos recurrentes un calendario de Google a partir de hojas de cálculo.
-+ Ayudé a actualizar los sistemas de computo, además de proporcionar recomendaciones para mejorar las prácticas tecnológicas de la empresa.  
+Escribí un script que permitía poblar con eventos recurrentes un calendario de Google a partir de hojas de cálculo. Ayudé a actualizar y dar mantenimiento a los sistemas de computo, y a mejorar las prácticas tecnológicas de la empresa.  
 
 **JavaScript, APIs de Google, Windows**
 
