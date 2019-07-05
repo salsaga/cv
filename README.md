@@ -125,5 +125,5 @@ Participé en el programa de becarios de la empresa y posteriormente contribuí 
 
 ## Formación
 
-Licenciatura en matemáticas (programa de estudios completado), **Universidad Nacional Autónoma de México**.
+Licenciatura en matemáticas, **Universidad Nacional Autónoma de México**.
 
