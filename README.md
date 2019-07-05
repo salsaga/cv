@@ -44,7 +44,7 @@ Bootstrap | 3 de 5
 **Git** | 5 de 5
 **SQL** | 3 de 5
 
-<br/><br/>
+<br/>
 
 ## Proyectos
   
