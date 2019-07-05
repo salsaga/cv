@@ -48,7 +48,7 @@ Bootstrap | 3 de 5
 **Git** | 5 de 5
 **SQL** | 3 de 5
 
-<br/><br/>
+<br/><br/><br/>
 
 ## Proyectos
   
@@ -60,6 +60,8 @@ Bootstrap | 3 de 5
 + Contribuyo con la planeación de un ERP para la empresa Vanplastic, proponiendo implementación de prácticas como Angular Universal, lazy loading y pruebas unitarias.
 
 **JavaScript, Angular 7, Typescript, HTML5, CSS3, servicios REST con CRUD**
+
+<br/><br/>
 
 ### Páginas Administrables de Mazda Global
 
