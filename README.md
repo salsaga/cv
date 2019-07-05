@@ -8,7 +8,7 @@
 
 ## Senior Skills
 
-+ **Desarrollo web**
++ **Desarrollo Front End**
 + **Consumo de APIs y servicios REST**
 + **Maquetación y estilado responsivo y multiplataforma**
 
