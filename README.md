@@ -31,9 +31,10 @@ TypeScript | 3 de 5
 React | 3 de 5 
 ECMAScript 6 | 3 de 5
 
+<br/>
+
 Lenguajes y frameworks y herramientas | Nivel
 --- | ---
-NodeJS | 2 de 5
 **JSON** | 5 de 5
 **HTML5** | 5 de 5
 Razor de C# | 3 de 5 
