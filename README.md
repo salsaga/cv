@@ -22,7 +22,7 @@ Español nativo e inglés profesional (suficiente para poder comunicarme con gen
 
 ## Tecnologías
 
-Lenguajes y frameworks| Nivel
+Lenguajes y frameworks y herramientas | Nivel
 --- | ---
 **JavaScript** | 5 de 5
 jQuery | 5 de 5
@@ -30,11 +30,6 @@ jQuery | 5 de 5
 TypeScript | 3 de 5
 React | 3 de 5 
 ECMAScript 6 | 3 de 5
-
-<br/>
-
-Lenguajes, frameworks y herramientas | Nivel
---- | ---
 NodeJS | 2 de 5
 **JSON** | 5 de 5
 **HTML5** | 5 de 5
