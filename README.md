@@ -2,133 +2,132 @@
 ###### gabosalmeron@gmail.com *5561641031*
 ### JavaScript Front End Developer  
 
-> Desde 2014 he vivido con creciente fascinación el mundo de la programación. He acumulado más de cuatro años de experiencia en desarrollo Front End. Siempre interesado en explorar nuevas tecnologías y herramientas. Me apasionan los retos.
+> Since 2014 I have lived the world of coding with growing fascination. I have accumulated more than four years of experience as Front End developer. I’m always interested in exploring new technologies and tools. I love challenges.
 
 ---
 
 ## Senior Skills
 
-+ **Desarrollo Front End**
-+ **Consumo de APIs y servicios REST**
-+ **Maquetación y estilado responsivo y multiplataforma**
++ **Front End Development**
++ **Consumption of APIs y REST services**
++ **Cross platform and responsive layout and styling**
 
 --- 
 
-## Idiomas
+## Languages
 
-Español nativo e inglés profesional (suficiente para poder comunicarme con gente de E.U, la India y Australia).
+Native spanish and profesional english (I’ve been able to communicate and work with people from USA, India and Australia).
 
 ---
 
-## Tecnologías
+## Tecnologies
 
-Lenguajes y frameworks y herramientas | Nivel
+Languages, frameworks and tools | Level
 --- | ---
-**JavaScript** | 5 de 5
-jQuery | 5 de 5
-**Angular 7** | 5 de 5
-TypeScript | 3 de 5
-React | 3 de 5 
-ECMAScript 6 | 3 de 5
+**JavaScript** | 5 of 5
+jQuery | 5 of 5
+**Angular 7** | 5 of 5
+TypeScript | 3 of 5
+React | 3 of 5 
+ECMAScript 6 | 3 of 5
 
 <br/>
 
 Lenguajes y frameworks y herramientas | Nivel
 --- | ---
-**JSON** | 5 de 5
-**HTML5** | 5 de 5
-Razor de C# | 3 de 5 
-JSP de Java | 2 de 5
-Handlebars | 4 de 5 
-XML | 5 de 5
-**CSS3** | 5 de 5
-SCSS | 4 de 5
-Material Design | 4 de 5
-Bootstrap | 3 de 5
-**Git** | 5 de 5
-**SQL** | 3 de 5
+**JSON** | 5 of 5
+**HTML5** | 5 of 5
+C#'s razor | 3 of 5 
+Java's JSP | 2 of 5
+Handlebars | 4 of 5 
+XML | 5 of 5
+**CSS3** | 5 of 5
+SCSS | 4 of 5
+Material Design | 4 of 5
+Bootstrap | 3 of 5
+**Git** | 5 of 5
+**SQL** | 3 of 5
 
 <br/><br/>
 
 ---
 
-# Proyectos
+# Projects
 
 <br/>
   
-### Sistema de Administración de Empleados Vantis
+### Vantis employees management system
 
-###### Vantis S de RL, Ciudad de México, *febrero 2019 - presente*
+###### Vantis S de RL, Mexico City, *february 2019 - present*
 
-+ Participo en el desarrollo de interfaces de un sistema que permite consultar y actualizar información de empresas y empleados, que funciona en paralelo con una aplicación de check-in. 
-+ Contribuyo con la planeación de un ERP para la empresa Vanplastic, proponiendo implementación de prácticas como Angular Universal, lazy loading y pruebas unitarias.
++ I’m taking part in the development of user interfaces of a system that allows consulting and updating information of companies and employees, which works in parallel with a check-in application. 
++ I'm contributing to the planning of an ERP system for the company Vanplastic, in which I'm advising practices such as Universal Angular, lazy loading and unit tests.
 
-**JavaScript, Angular 7, Typescript, HTML5, CSS3, servicios REST con CRUD**
+**JavaScript, Angular 7, Typescript, HTML5, CSS3, REST services**
 
 <br/><br/><br/>
 
-### Páginas Administrables de Mazda Global
+### Mazda Global manageable pages
 
-###### Mirum Agency, Ciudad de México, *mayo 2018 - enero 2019*
+###### Mirum Agency, Mexico City, *may 2018 - january 2019*
 
-Contribuí a la elaboración de componentes de un administrador de contenido para Mazda, con mapas interactivos, product builders, plantillas para ensamblar, etc. Ayude a coordinar el equipo de Front End del proyecto. 
+I contributed to the development of components of a content manager system for Mazda, with interactive maps, product builders, customizable templates, etc. 
 
 **Umbraco, Razor, JavaScript, jQuery, HTML5, CSS3**
 
-### Sistema de Gestión de Damnificados del FONDEN
+### FONDEN Management system for disaster victims 
 
-###### Vantis S de RL, Ciudad de México, *diciembte 2017 - abril 2018*
+###### Vantis S de RL, Mexico City, *december 2017 - april 2018*
 
-Desarrollé las interfaces web de un sistema de gestión de apoyos para damnificados del FONDEN de Bansefi, diseñada en paralelo con una aplicación de registro de beneficiarios.  
+I developed web interfaces for a system that could manage economic support for disaster victims for the FONDEN of Bansefi’s bank. It was designed in parallel with an application for the registering of beneficiaries. 
 
-**JavaScript, TypeScript, Angular 5, HTML5, CSS3, SASS, servicios REST con CRUD, MySQL**
+**JavaScript, TypeScript, Angular 5, HTML5, CSS3, SASS, REST services, MySQL**
 
 ### Web de Súper Walmart
 
-###### Corporativo Walmart México, Naucalpan, *junio 2017 - noviembre 2017*
+###### Corporativo Walmart México, Naucalpan, *june 2017 - november 2017*
 
-+ Colaboré con un equipo internacional en la reingenería del flujo de pedidos y pagos de la web de Súper Walmart.
-+ Desarrollé la componente web de "Super en Minutos" que ofrecía a los clientes un buscador de productos inteligente.  
++ I cooperated with an international team on the reengineering of the Super Walmart website’s flow for ordering and payment.
++ I developed the web component "Super en Minutos" (super in minutes) that offered clients an intelligent products searcher.  
 
-**JavaScript, React, jQuery, HTML5, CSS3, servicios REST con CRUD**
+**JavaScript, React, jQuery, HTML5, CSS3, REST services**
 
-### Páginas de Bancoppel y Santander
+### Bancoppel and Santander pages
 
-###### Tech and Design Associates, Ciudad de México, *agosto 2016 - mayo 2017*
+###### Tech and Design Associates, Mexico City, *august 2016 - may 2017*
 
-+ Construí una herramienta WYSIWIG con drag and drop para crear banners de campañas publicitarias de Santander, compatible con Internet Explorer 7.
-+ Maqueté una página con información acerca del producto 'transfer' de Bancoppel, y colaboré con el mantenimiento de otras páginas de Bancoppel y Santander.  
++ I built a WYSIWIG tool with drag and drop for creating banners and advertising campaigns for Santander. It was compatible with Internet Explorer 7. 
++ I layed out a page with  information about  the product  'transfer' of Bancoppel, and I cooperated with the maintenance of other Bancoppel and Santander pages.  
 
-**JavaScript, jQuery, Handlebars, HTML5, CSS3, SASS, servicios REST**
+**JavaScript, jQuery, Handlebars, HTML5, CSS3, SASS, REST services**
 
-### Asesorías Técnicas
+### Technical Advising
 
-###### CELAMEX IAP, Ciudad de México, *marzo 2016 - julio 2016*
+###### CELAMEX IAP, Mexico City, *march 2016 - july 2016*
 
-Escribí un script que permitía poblar con eventos recurrentes un calendario de Google a partir de hojas de cálculo. Ayudé a actualizar y dar mantenimiento a los sistemas de computo, y a mejorar las prácticas tecnológicas de la empresa.  
+I wrote a script that allowed to populate a Google calendar with recurring events from spreadsheets. I helped to the updating and maitenance of computer systems, as well as the improving of the technological practices of the company.  
 
-**JavaScript, APIs de Google, Windows**
+**JavaScript, Google's APIs, Windows**
 
 ### Conciertos.pro
 
-###### Proyecto freelance para cliente particular, Ciudad de México, *febrero 2015 - diciembre 2015*
+###### Freelance project for private client, Mexico City, *february 2015 - december 2015*
 
-Participé en un proyecto web que se proponía ofrecer una cartelera de eventos de música con recomendaciones
-personalizadas y con un base de datos que utilizaba un paradigma de gráficas.  
+I took part in a web project that would offer a billboard of music events with personalized recommendations and with a database that used the paradigm of graphs.  
 
-**JavaScript, AngularJS, HTML5, CSS3, OrientDB, servicios REST** 
+**JavaScript, AngularJS, HTML5, CSS3, OrientDB, REST services** 
 
-### Proyectos NearBPO
+### NearBPO Projects
 
-###### NearBPO Corporation, Ciudad de México, *junio 2014 - enero 2015*
+###### NearBPO Corporation, Mexico City, *june 2014 - january 2015*
 
-Participé en el programa de becarios de la empresa y posteriormente contribuí con el desarrollo y mantenimiento de una consola de administración.
+I was enrolled in the company’s internship program, after which I contributed with the development and mantainance of an administration console.
 
-**JavaScript, AngularJS, NodeJS, HTML5, CSS3, servicios REST** 
+**JavaScript, AngularJS, NodeJS, HTML5, CSS3, REST services** 
 
 ---
 
-## Formación
+## Education
 
-Licenciatura en matemáticas, **Universidad Nacional Autónoma de México**.
+Mathematics Licentiate, **Universidad Nacional Autónoma de México**.
 
